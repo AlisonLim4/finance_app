@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "José Teste",
+      "phone": "21912334598",
+      "email": "pts@corporation.com",
+      "password": "1234567"
+    }
+  ]
+}
