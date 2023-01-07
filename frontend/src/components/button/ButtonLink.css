@@ -1,0 +1,14 @@
+a {
+  font-family: "Ibm Plex Mono", "Roboto", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 8px;
+}
+a:hover,
+a:active,
+a:focus {
+  background-color: #52c773;
+}
