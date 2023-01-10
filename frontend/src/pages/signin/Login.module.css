@@ -1,0 +1,31 @@
+section.login {
+  padding-top: 80px;
+}
+div.bitcoin_img_container {
+  display: flex;
+  justify-content: center;
+}
+form.form {
+  display: flex;
+  flex-direction: column;
+  padding: 0 30px;
+  margin-top: 35px;
+  gap: 15px;
+}
+form.form input:focus {
+  outline-color: #158f38;
+}
+form.form button {
+  margin-top: 25px;
+}
+
+p.new_user {
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  margin-top: 60px;
+}
+a.signup {
+  font-family: "Inter", sans-serif;
+  display: inline-block;
+  color: #30d25e;
+}

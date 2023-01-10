@@ -1,0 +1,21 @@
+div.input {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  color: #868282;
+  margin-bottom: 5px;
+}
+input {
+  height: 50px;
+  border-radius: 8px;
+  border: none;
+}
+a.forgot_password {
+  font-size: 12px;
+  display: block;
+  text-align: end;
+  margin-top: 8px;
+  padding: 0;
+  color: #000000;
+}

@@ -11,4 +11,5 @@ a:hover,
 a:active,
 a:focus {
   background-color: #52c773;
+  color: white;
 }

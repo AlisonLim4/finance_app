@@ -1,10 +1,10 @@
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
-import Home from "../pages/home/Home";
+import Rotas from "./Routes";
 const App = () => {
   return (
     <BrowserRouter>
-      <Home />
+      <Rotas />
     </BrowserRouter>
   );
 };

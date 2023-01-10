@@ -1,0 +1,16 @@
+div.container {
+  background-color: var(--container-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 80px;
+  border-radius: 35px 35px 0 0;
+}
+div.container h1 {
+  font-size: 25px;
+}
+div.content {
+  width: 100%;
+}

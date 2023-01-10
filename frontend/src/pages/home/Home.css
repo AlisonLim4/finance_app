@@ -1,15 +1,13 @@
 section.home {
   margin-top: 50px;
 }
-.card {
-  padding-top: 30px;
-}
 
 div.card {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: 50px;
+  padding-top: 30px;
   background-color: var(--container-color);
   border-radius: 35px;
   padding-bottom: 20px;

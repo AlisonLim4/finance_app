@@ -1,0 +1,18 @@
+button {
+  font-family: "Inter", "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 8px;
+  border: none;
+  background-color: #92e3a9;
+}
+button:hover,
+button:active,
+button:focus {
+  background-color: #52c773;
+  color: white;
+}

@@ -1,4 +1,4 @@
-import "./ButtonLink.css";
+import "./ButtonLink.module.css";
 import React from "react";
 
 const ButtonLink = ({ text, href, bgcolor, border, hover }) => {
